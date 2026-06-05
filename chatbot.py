@@ -1,4 +1,4 @@
-# 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
+
 from groq import Groq
 
 client = Groq(api_key="   ") #add your own groq api key

@@ -1,4 +1,4 @@
-readme life for the project
+
 # FRIDAY – AI Voice Assistant
 
 FRIDAY is a Python-based AI voice assistant inspired by intelligent virtual assistants from science fiction. It enables hands-free interaction through voice commands, natural language conversations, and voice responses, all within a desktop graphical interface.

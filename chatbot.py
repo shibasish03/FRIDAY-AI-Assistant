@@ -1,7 +1,7 @@
 # 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
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="   ") #add your own groq api key
 
 # List of models to try (fallback system)
 MODELS = [
